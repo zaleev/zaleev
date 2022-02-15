@@ -10,6 +10,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zaleev)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaleev)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Visits Badge](https://badges.pufler.dev/visits/zaleev/zaleev)](https:braydoncoyer.dev)
