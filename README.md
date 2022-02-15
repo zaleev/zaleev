@@ -8,9 +8,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-...
-https://habr.com/ru/post/649363/[![GitHub%20Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaleev)](https://git.io/streak-stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 [![Visits Badge](https://badges.pufler.dev/visits/zaleev/zaleev)](https:braydoncoyer.dev)
