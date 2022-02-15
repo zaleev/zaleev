@@ -9,3 +9,5 @@
 - ⚡ Fun fact: ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?zaleev=anuraghazra&show_icons=true&theme=radical)
+
+[![Visits Badge](https://badges.pufler.dev/visits/zaleev/zaleev)](https:braydoncoyer.dev)
